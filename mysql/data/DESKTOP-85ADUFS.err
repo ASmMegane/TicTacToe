@@ -1,0 +1,10 @@
+2019-02-20T15:19:31.207453Z 0 [System] [MY-010116] [Server] D:\Programs\mysql\bin\mysqld.exe (mysqld 8.0.15) starting as process 7240
+2019-02-20T15:19:33.181444Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-02-20T15:19:33.269403Z 0 [System] [MY-010931] [Server] D:\Programs\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.15'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2019-02-20T15:19:33.479651Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2019-02-20T15:21:24.813525Z 0 [System] [MY-010116] [Server] D:\Programs\mysql\bin\mysqld.exe (mysqld 8.0.15) starting as process 22804
+2019-02-20T15:21:25.482927Z 0 [System] [MY-010229] [Server] Starting crash recovery...
+2019-02-20T15:21:25.503346Z 0 [System] [MY-010232] [Server] Crash recovery finished.
+2019-02-20T15:21:26.620072Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-02-20T15:21:26.697947Z 0 [System] [MY-010931] [Server] D:\Programs\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.15'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2019-02-20T15:21:26.764866Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060

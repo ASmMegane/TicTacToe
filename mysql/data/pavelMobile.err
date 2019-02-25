@@ -1,0 +1,18 @@
+2019-02-20T15:29:15.523787Z 0 [System] [MY-010116] [Server] D:\tic tac toe\mysql\bin\mysqld.EXE (mysqld 8.0.15) starting as process 5168
+2019-02-20T15:29:17.906923Z 0 [System] [MY-010229] [Server] Starting crash recovery...
+2019-02-20T15:29:17.916923Z 0 [System] [MY-010232] [Server] Crash recovery finished.
+2019-02-20T15:29:19.178996Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-02-20T15:29:19.231999Z 0 [System] [MY-010931] [Server] D:\tic tac toe\mysql\bin\mysqld.EXE: ready for connections. Version: '8.0.15'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2019-02-20T15:29:19.389008Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2019-02-20T15:29:42.152310Z 0 [System] [MY-010116] [Server] D:\tic tac toe\mysql\bin\mysqld.EXE (mysqld 8.0.15) starting as process 10768
+2019-02-20T15:29:44.666453Z 0 [System] [MY-010229] [Server] Starting crash recovery...
+2019-02-20T15:29:44.674454Z 0 [System] [MY-010232] [Server] Crash recovery finished.
+2019-02-20T15:29:45.934526Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-02-20T15:29:45.978528Z 0 [System] [MY-010931] [Server] D:\tic tac toe\mysql\bin\mysqld.EXE: ready for connections. Version: '8.0.15'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2019-02-20T15:29:46.150538Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2019-02-20T15:30:19.437442Z 0 [System] [MY-010116] [Server] D:\tic tac toe\mysql\bin\mysqld.EXE (mysqld 8.0.15) starting as process 2136
+2019-02-20T15:30:22.793634Z 0 [System] [MY-010229] [Server] Starting crash recovery...
+2019-02-20T15:30:22.801635Z 0 [System] [MY-010232] [Server] Crash recovery finished.
+2019-02-20T15:30:23.960701Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-02-20T15:30:24.001703Z 0 [System] [MY-010931] [Server] D:\tic tac toe\mysql\bin\mysqld.EXE: ready for connections. Version: '8.0.15'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2019-02-20T15:30:24.023705Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
